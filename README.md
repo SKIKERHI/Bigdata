@@ -1,0 +1,2 @@
+# Bigdata
+Dans les grands cours sur les données, nous avons appris les bases du traitement des données avec R. R est un langage de programmation et un environnement logiciel libre pour l'informatique statistique et les graphiques soutenu par la Fondation R pour l'informatique statistique. Nous avons réalisé plusieurs leçons pratiques en apprenant comment explorer un ensemble de données. Ensuite, par groupe de trois étudiants, nous avons fait une analyse d'un ensemble de données choisi.
